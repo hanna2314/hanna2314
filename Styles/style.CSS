@@ -1,0 +1,244 @@
+.main {
+  display: flex;
+  background: #FFFFFF;
+box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+position: absolute;
+width: 1200px;
+height:1319px;
+left: 40px;
+top: 40px;
+}
+.main-content {
+  background-color: rgba(0, 0, 0, 0.1);
+  padding: 105px 90px;
+ 
+}
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: rgba(245, 245, 245, 0.904) 
+}
+h2{color:rgb(0, 0, 0)}
+
+.title{
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+  margin-bottom: 10px;
+
+}
+}
+.li_projects {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+.title_work {
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+}
+.title_ed {
+  font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+color: #FB6D3A;
+
+}
+.sidebar{background-color:rgb(6, 6, 37);
+  color: white ;
+  padding-top: 30px;
+}
+.sidebar_S{background-color:rgb(6, 6, 37);
+  position: absolute;
+  width: 370px;
+  height: 1300px;
+  left: 40px;
+  top: 20px; 
+}
+.Contacts,
+.TechSkills,
+.SoftSkills {background-color:rgb(6, 6, 37);
+  color: white ;
+  margin-left: 40px;
+
+}
+.title_sidebar {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 27px;
+  color: white;
+  margin-bottom: 10px;
+}
+.contact-type {
+  background-color:rgb(6, 6, 37);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 27px;
+  color: white ;
+  margin-bottom: 45px;
+}
+.cont_link {
+  background-color:rgb(6, 6, 37);
+  font-size: 14px;
+  font-style: normal;
+  line-height: 24px;
+  color: white ;
+}
+.p {
+  background-color:rgb(6, 6, 37);
+  color: white ;
+}
+.tech-type {
+  background-color:rgb(6, 6, 37);
+  font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #FFFFFF;
+
+}
+.soft_type {
+  background-color:rgb(6, 6, 37);
+  font-size: 15px;
+  font-style: normal;
+  line-height: 27px;
+  color: white ;
+}
+.user {
+position: absolute;
+width: 400px;
+height: 230px;
+left: 504px;
+top: 118px;
+margin-bottom: 40px;
+}
+.about-user {
+  font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+color: #000000;
+margin-bottom: 20px;
+
+}
+.about-name {
+  font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 55px;
+color: #000000;
+margin-bottom: 25px;
+}
+.about-p {
+  font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #434040;
+
+}
+.work{
+  position: absolute;
+width: 525px;
+height: 213px;
+left: 498px;
+top: 430px;
+margin-bottom: 15px;
+}
+.work_t {
+  position: absolute;
+  width: 525px;
+  height: 150px;
+  margin-bottom: 20px;
+}
+.work_h {
+  position: absolute;
+width: 525px;
+height: 126px;
+left: 0px;
+top: 480px;
+margin-bottom: 45px;
+}
+.Education {
+  position: absolute;
+width: 327px;
+height: 114px;
+
+}
+.ul {
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+}
+.h5{
+  font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+color: #A8A8A8;
+}
+.proj_a,
+.proj_link {
+  font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+}
+ .proj_b {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+ }
+ .li_work {
+  font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+ }
+ .i_work {
+  font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+ }
+ .c1 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  margin-bottom: 15px;
+ }
+ .ol{
+  background-color:rgb(6, 6, 37);
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #FB6D3A;
+ }
+ .or {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #FB6D3A;
+ }
+ .I{font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #000000;}
